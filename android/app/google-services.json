@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "373320091425",
+    "project_id": "startline-crypto",
+    "storage_bucket": "startline-crypto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373320091425:android:352039027c90e429a82060",
+        "android_client_info": {
+          "package_name": "com.example.crypto_wallet.crypto_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373320091425-7uao3mho6jqscj1dill5nnc9oinc3dio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7I7_6IlpR32d0CtrM3acNxPmTo0oNq1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373320091425-7uao3mho6jqscj1dill5nnc9oinc3dio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373320091425:android:5e8aa777e99d921fa82060",
+        "android_client_info": {
+          "package_name": "com.starline.wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373320091425-7uao3mho6jqscj1dill5nnc9oinc3dio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7I7_6IlpR32d0CtrM3acNxPmTo0oNq1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373320091425-7uao3mho6jqscj1dill5nnc9oinc3dio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
